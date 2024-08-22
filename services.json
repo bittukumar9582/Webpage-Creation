@@ -1,0 +1,8 @@
+{
+    "services": [
+        { "title": "Web Development", "description": "Building responsive and dynamic websites." },
+        { "title": "Graphic Design", "description": "Creating visual content to communicate messages." },
+        { "title": "SEO Optimization", "description": "Improving your site’s visibility on search engines." },
+        { "title": "Content Creation", "description": "Crafting engaging and valuable content for your audience." }
+    ]
+}
